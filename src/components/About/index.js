@@ -33,12 +33,10 @@ const About = () => {
             Education: The University of British Columbia, Sauder School of Business
           </p>
           <p align="LEFT">
-            I'm a curious, calm and confident individuals who loves to collaborate with people to solve problems.
+            Hobbies: Jiu-Jitsu, Fitness, Chess and Self-Improvement.
           </p>
           <p>
-            If I need to define myself in one sentence that would be a family
-            person, father of a beautiful daughter, a sports fanatic,
-            photography enthusiast, and tech-obsessed!!!
+            Calm, curious and passionate.
           </p>
         </div>
 
